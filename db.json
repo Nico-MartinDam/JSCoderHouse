@@ -1,0 +1,125 @@
+{
+  "platos": [
+    {
+      "id": 1,
+      "nombre": "Pizza a la Piedra Chica",
+      "precio": 30,
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Pizza a la Piedra Mediana",
+      "precio": 50,
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Porción de Lemon-Pie",
+      "precio": 30,
+      "categoria": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Porción de torta de Chocolate",
+      "precio": 30,
+      "categoria": 3
+    },
+    {
+      "id": 5,
+      "nombre": "Jugo de Naranja",
+      "precio": 15,
+      "categoria": 2
+    },
+    {
+      "id": 6,
+      "nombre": "Pizza a la Piedra Grande",
+      "precio": 70,
+      "categoria": 1
+    },
+    {
+      "id": 7,
+      "nombre": "Entrecot 800g",
+      "precio": 100,
+      "categoria": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Jugo de Pomelo",
+      "precio": 15,
+      "categoria": 2
+    },
+    {
+      "id": 9,
+      "nombre": "Cerveza",
+      "precio": 40,
+      "categoria": 2
+    },
+    {
+      "id": 10,
+      "nombre": "Porción de Torta de Queso",
+      "precio": 30,
+      "categoria": 3
+    },
+    {
+      "id": 11,
+      "nombre": "Café Americano",
+      "precio": 20,
+      "categoria": 2
+    },
+    {
+      "id": 12,
+      "nombre": "Café Capuchino",
+      "precio": 40,
+      "categoria": 2
+    },
+    {
+      "id": 13,
+      "nombre": "Ensalada de Frutas",
+      "precio": 45,
+      "categoria": 3
+    },
+    {
+      "id": 14,
+      "nombre": "Lasaña ala Boloñesa",
+      "precio": 80,
+      "categoria": 1
+    },
+    {
+      "id": 15,
+      "nombre": "Freppé",
+      "precio": 60,
+      "categoria": 2
+    },
+    {
+      "id": 16,
+      "nombre": "Fideos Con Salsa",
+      "precio": 85,
+      "categoria": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Milanesa C/ Guarnición",
+      "precio": 90,
+      "categoria": 1
+    },
+    {
+      "id": 18,
+      "nombre": "Helado (3 bochas)",
+      "precio": 50,
+      "categoria": 3
+    },
+    {
+      "id": 19,
+      "nombre": "Té",
+      "precio": 30,
+      "categoria": 2
+    },
+    {
+      "id": 20,
+      "nombre": "Hamburguesa Completa",
+      "precio": 75,
+      "categoria": 1
+    }
+  ],
+  "cliente": []
+}
